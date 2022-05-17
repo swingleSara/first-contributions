@@ -226,6 +226,7 @@
 - [Jonatandb](https://github.com/Jonatandb)
 - [ImaadM]
 - [MTM]
+- Sara Swingle (https://github.com/swingleSara)
 - [Chris Basham](https://github.com/berninup)
 - [pratish ninawe](https://github.com/Pratish10)
 - [katy millard](https://github.com/katy4599)
